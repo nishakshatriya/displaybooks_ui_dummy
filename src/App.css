@@ -49,3 +49,18 @@ div{
   flex-wrap: wrap;
   
 }
+
+.root {
+  max-width:180;
+  height: 290;
+  margin-left: 90;
+  margin-top: 50
+  
+}
+.media {
+  margin-Top: 5;
+  height: 140;
+  width: 100;
+  margin-Left: 40
+  
+}
